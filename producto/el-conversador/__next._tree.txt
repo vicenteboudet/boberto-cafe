@@ -1,0 +1,8 @@
+:HL["/boberto-cafe/_next/static/chunks/1_ub18iy2u5ew.css","style"]
+:HL["/boberto-cafe/_next/static/media/ab71ef6cb3cac5a2-s.p.3moulrn_0vbty.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/boberto-cafe/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/boberto-cafe/_next/static/media/fe68a48bcbeff111-s.p.1jake7ccbq8_p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"el-conversador","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"producto","h":64,"c":"$Q2"}]]
+0:{"b":"3stItHTcUx0jkZlkW1xPF","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
